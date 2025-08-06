@@ -1,5 +1,6 @@
 File Details
 
+URL: https://github.com/zikesh-dev/concrete_strength/blob/main/pozzolan_dataset/CCS.xlsx
 URL: https://github.com/Sirfowahid/Dataset/blob/main/CCS.xlsx
 Ref: Raju, M.R. et al. 2024. A Comparative Analysis of Machine Learning Approaches for Evaluating the Compressive Strength of Pozzolanic Concrete . IUBAT Review. 7, 1 (Jun. 2024), 90–122. DOI:https://doi.org/10.3329/iubatr.v7i1.74329.
 
