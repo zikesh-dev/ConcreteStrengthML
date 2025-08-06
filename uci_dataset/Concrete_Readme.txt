@@ -1,5 +1,7 @@
 Concrete Compressive Strength 
 
+URL: https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength
+Ref: Yeh, I-Cheng. "Concrete Compressive Strength." UCI Machine Learning Repository, 1998, https://doi.org/10.24432/C5PK67.
 ---------------------------------
 
 Data Type: multivariate
@@ -92,6 +94,7 @@ Prof. I-Cheng Yeh and the following published paper:
 
 I-Cheng Yeh, "Modeling of strength of high performance concrete using artificial 
 neural networks," Cement and Concrete Research, Vol. 28, No. 12, pp. 1797-1808 (1998)
+
 
 
 
